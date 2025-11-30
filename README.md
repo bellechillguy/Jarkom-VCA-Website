@@ -42,28 +42,28 @@ Jarkom-VCA-Website/
 ---
 
 ## Cara Menjalankan (Lokal)
-* **Clone Repository Buka terminal dan jalankan:
+* **Clone Repository Buka terminal dan jalankan:**
 Bash
 git clone [https://github.com/bellechillguy/Jarkom-VCA-Website.git](https://github.com/bellechillguy/Jarkom-VCA-Website.git)
 
-* **Masuk ke Folder
+* **Masuk ke Folder:**
 Bash
 cd Jarkom-VCA-Website
 
-* **Buka Website
+* **Buka Website:**
 Cari file index.html.
 Klik kanan dan pilih "Open with Live Server" (jika pakai VS Code extension) atau klik dua kali untuk membuka di browser.
 
 ---
 
 ## Teknologi
-* **HTML5 - Struktur semantik halaman.
+* **HTML5** - Struktur semantik halaman.
 
-* **CSS3 - Styling, Flexbox/Grid, dan responsivitas.
+* **CSS3** - Styling, Flexbox/Grid, dan responsivitas.
 
-* **Git & GitHub - Version control dan hosting.
+* **Git & GitHub** - Version control dan hosting.
 
-* **Figma - Desain sebelum diterapkan sebagai frontend
+* **Figma** - Desain sebelum diterapkan sebagai frontend
 
 ---
 
