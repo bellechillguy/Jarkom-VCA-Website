@@ -3,19 +3,11 @@
 ![Project Status](https://img.shields.io/badge/Status-Active-green)
 ![Tech Stack](https://img.shields.io/badge/HTML5-CSS3-blue)
 
+<img width="2160" height="1620" alt="Image" src="https://github.com/user-attachments/assets/282e112a-5f35-4d13-96a9-3172d20acdf5" />
+
 Repository ini berisi source code untuk website proyek **Jarkom (Jaringan Komputer) - VCA**. Website ini dirancang sebagai situs statis yang interaktif dengan navigasi antar halaman.
 
 🔗 **Live Demo:** [Klik di sini untuk melihat website](https://bellechillguy.github.io/Jarkom-VCA-Website/)
-
----
-
-## 📖 Daftar Isi
-- [Tentang Proyek](#-tentang-proyek)
-- [Fitur Utama](#-fitur-utama)
-- [Struktur Folder](#-struktur-folder)
-- [Cara Menjalankan](#-cara-menjalankan-lokal)
-- [Teknologi](#-teknologi)
-- [Tim Pengembang](#-tim-pengembang)
 
 ---
 
