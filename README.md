@@ -1,4 +1,4 @@
-# 🌐 Jarkom VCA Website
+# Jarkom VCA Website
 
 ![Project Status](https://img.shields.io/badge/Status-Active-green)
 ![Tech Stack](https://img.shields.io/badge/HTML5-CSS3-blue)
@@ -7,11 +7,11 @@
 
 Repository ini berisi source code untuk website proyek **Jarkom (Jaringan Komputer) - VCA**. Website ini dirancang sebagai situs statis yang interaktif dengan navigasi antar halaman.
 
-🔗 **Live Demo:** [Klik di sini untuk melihat website](https://bellechillguy.github.io/Jarkom-VCA-Website/)
+**Live Web:** [Klik aja bub](https://bellechillguy.github.io/Jarkom-VCA-Website/)
 
 ---
 
-## 📝 Tentang Proyek
+## Tentang
 Proyek ini dibuat untuk memenuhi tugas mata kuliah Jaringan Komputer. Website ini berfokus pada penyajian konten visual dan tekstual (seperti *confession pages*, *letters*, dll) yang saling terhubung.
 
 ---
@@ -24,7 +24,7 @@ Proyek ini dibuat untuk memenuhi tugas mata kuliah Jaringan Komputer. Website in
 
 ---
 
-## 📂 Struktur Folder
+## Struktur Folder
 
 Berikut adalah visualisasi struktur direktori proyek ini:
 
@@ -34,9 +34,9 @@ Jarkom-VCA-Website/
 ├── 📁 src/                 # Folder untuk halaman tambahan & aset
 │   └── 📁 public/          # Menyimpan aset gambar (png, jpg)
 │
-├── 🎨 index.css            # Stylesheet UTAMA (Global Style)
-├── 📄 index.html           # File UTAMA (Wajib ada di root)
-└── 📝 README.md            # Dokumentasi proyek ini
+├── index.css            # Stylesheet UTAMA (Global Style)
+├── index.html           # File UTAMA (Wajib ada di root)
+└── README.md            # Dokumentasi proyek ini
 ```
 
 ---
@@ -57,15 +57,15 @@ Klik kanan dan pilih "Open with Live Server" (jika pakai VS Code extension) atau
 ---
 
 ## Teknologi
-* **HTML5** - Struktur semantik halaman.
+* **HTML5**:  Struktur semantik halaman.
 
-* **CSS3** - Styling, Flexbox/Grid, dan responsivitas.
+* **CSS3**:  Styling, Flexbox/Grid, dan responsivitas.
 
-* **Git & GitHub** - Version control dan hosting.
+* **Git & GitHub**:  Version control dan deploy.
 
-* **Figma** - Desain sebelum diterapkan sebagai frontend
+* **Figma**:  Desain sebelum diterapkan sebagai frontend.
 
 ---
 
-## 👤 Tim Pengembang
+## Pengembang
 Nisrina Zakiyah - Developer & Designer
